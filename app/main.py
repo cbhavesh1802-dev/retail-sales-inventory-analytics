@@ -1,8 +1,9 @@
-import hashlib, hmac, logging
+import hashlib, hmac, logging, os
 from datetime import datetime, timezone
 from contextlib import asynccontextmanager
 from fastapi import FastAPI, Request, HTTPException, BackgroundTasks
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, FileResponse
+from fastapi.middleware.cors import CORSMiddleware
 from app.config import settings
 from app.services import snyk, scorer, github
 from app.services.scorer import PRMeta
@@ -11,6 +12,7 @@ from app.db.operations import save_evaluation, get_recent_evaluations, get_repo_
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)s | %(message)s")
 log = logging.getLogger("adg")
+STATIC_DIR = os.path.join(os.path.dirname(__file__), "static")
 
 @asynccontextmanager
 async def lifespan(app):
@@ -19,10 +21,15 @@ async def lifespan(app):
     yield
 
 app = FastAPI(title="ADG — Autonomous DevSecOps Guardian", version="0.2.0", lifespan=lifespan)
+app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
 @app.get("/health")
 async def health():
     return {"status": "ok", "version": "0.2.0"}
+
+@app.get("/dashboard")
+async def dashboard():
+    return FileResponse(os.path.join(STATIC_DIR, "dashboard.html"))
 
 @app.post("/webhook/github")
 async def github_webhook(request: Request, background: BackgroundTasks):
@@ -99,3 +106,30 @@ def _branch_age_days(created_at_iso):
         return (datetime.now(timezone.utc) - created).days
     except:
         return 0
+
+
+# ── Risk Propagation Engine ──────────────────────────────────────────────
+from app.services.risk_propagation import propagate as _propagate, SERVICE_GRAPH as _GRAPH
+from sqlalchemy import select as _select, func as _func
+from app.db.models import Repository as _Repo, Evaluation as _Eval
+
+@app.get("/api/risk-graph")
+async def risk_graph():
+    """Return services with base + propagated (effective) risk, and edges."""
+    async with SessionLocal() as session:
+        rows = await session.execute(
+            _select(_Repo.name, _func.min(_Eval.trust_score))
+            .join(_Eval, _Eval.repository_id == _Repo.id)
+            .group_by(_Repo.name)
+        )
+        # base risk = 100 - worst trust score for that service
+        base_risk = {name: 100 - int(score) for name, score in rows.all()}
+    nodes = _propagate(base_risk)
+    return {
+        "nodes": [
+            {"name": n.name, "base_risk": n.base_risk,
+             "effective_risk": n.effective_risk, "depends_on": n.depends_on}
+            for n in nodes
+        ],
+        "edges": [{"from": s, "to": dep} for s, deps in _GRAPH.items() for dep in deps],
+    }
