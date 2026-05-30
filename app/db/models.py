@@ -4,14 +4,19 @@ from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 from sqlalchemy import String, Integer, Float, DateTime, Text, ForeignKey
 from typing import Optional, List
 import os
+from urllib.parse import urlparse, urlunparse
 
 _raw = os.getenv("DATABASE_URL", "postgresql+asyncpg://localhost/adg_db")
 if _raw.startswith("postgres://"):
     _raw = _raw.replace("postgres://", "postgresql+asyncpg://", 1)
 elif _raw.startswith("postgresql://"):
     _raw = _raw.replace("postgresql://", "postgresql+asyncpg://", 1)
-DATABASE_URL = _raw
-engine = create_async_engine(DATABASE_URL, echo=False)
+_parsed = urlparse(_raw)
+DATABASE_URL = urlunparse(_parsed._replace(query=""))
+_connect_args = {}
+if "localhost" not in DATABASE_URL and "127.0.0.1" not in DATABASE_URL:
+    _connect_args["ssl"] = True
+engine = create_async_engine(DATABASE_URL, echo=False, connect_args=_connect_args)
 SessionLocal = async_sessionmaker(engine, expire_on_commit=False)
 
 class Base(DeclarativeBase):
