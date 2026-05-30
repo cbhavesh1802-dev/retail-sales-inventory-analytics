@@ -5,7 +5,12 @@ from sqlalchemy import String, Integer, Float, DateTime, Text, ForeignKey
 from typing import Optional, List
 import os
 
-DATABASE_URL = os.getenv("DATABASE_URL", "postgresql+asyncpg://localhost/adg_db")
+_raw = os.getenv("DATABASE_URL", "postgresql+asyncpg://localhost/adg_db")
+if _raw.startswith("postgres://"):
+    _raw = _raw.replace("postgres://", "postgresql+asyncpg://", 1)
+elif _raw.startswith("postgresql://"):
+    _raw = _raw.replace("postgresql://", "postgresql+asyncpg://", 1)
+DATABASE_URL = _raw
 engine = create_async_engine(DATABASE_URL, echo=False)
 SessionLocal = async_sessionmaker(engine, expire_on_commit=False)
 
