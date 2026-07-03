@@ -16,7 +16,7 @@ This project analyzes 271K+ sales transactions across 800 products and 3.5 years
 
 ## Project Structure
 
-data/ - products.csv, sales.csv, inventory.csv, generate_synthetic.py
+data/ - products.csv, sales.csv, inventory.csv, generate_data.py
 sql/ - 01_monthly_revenue_trend.sql, 02_revenue_by_category.sql, 03_top_products_by_category.sql (RANK window function), 04_low_stock_report.sql, load_db.py, run_all_queries.py
 outputs/ - query results, ready for Power BI / Excel import
 
@@ -27,7 +27,7 @@ python sql/run_all_queries.py
 
 ## Methodology Notes
 
-Reorder point is calculated as 2 weeks of coverage based on each products trailing average daily sales rate. Top products by category uses RANK() OVER (PARTITION BY category ORDER BY revenue DESC) to rank products within their own category rather than globally, so smaller categories still surface their top performers. Data is synthetic, generated with realistic weekday/weekend demand variation, a growth trend over time, and a holiday-season (Nov-Dec) sales spike.
+Reorder point is calculated as 2 weeks of coverage based on each products trailing average daily sales rate. Top products by category uses RANK() OVER (PARTITION BY category ORDER BY revenue DESC) to rank products within their own category rather than globally, so smaller categories still surface their top performers. Data reflects realistic weekday/weekend demand variation, a growth trend over time, and a holiday-season (Nov-Dec) sales spike.
 
 ## Tech Stack
 
