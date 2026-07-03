@@ -1,0 +1,16 @@
+product_id,product_name,category,total_revenue,total_profit,category_rank
+9,Apparel-Item-9,Apparel,19314.02,7114.8,1
+10,Apparel-Item-10,Apparel,18565.12,7609.28,2
+16,Apparel-Item-16,Apparel,18337.35,8602.15,3
+98,Beauty-Item-98,Beauty,13148.96,5576.74,1
+146,Beauty-Item-146,Beauty,12855.81,4588.8,2
+30,Beauty-Item-30,Beauty,12411.7,6899.62,3
+65,Electronics-Item-65,Electronics,188657.34,73382.79,1
+128,Electronics-Item-128,Electronics,162231.26,60369.4,2
+79,Electronics-Item-79,Electronics,149824.41,80744.19,3
+76,Home-Item-76,Home & Kitchen,39355.15,22421.65,1
+24,Home-Item-24,Home & Kitchen,34690.68,14859.45,2
+91,Home-Item-91,Home & Kitchen,33151.2,19675.2,3
+131,Sports-Item-131,Sports,48931.76,24381.87,1
+40,Sports-Item-40,Sports,43500.18,21618.48,2
+31,Sports-Item-31,Sports,40410.54,20717.4,3
