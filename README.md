@@ -14,6 +14,14 @@ This project analyzes 271K+ sales transactions across 800 products and 3.5 years
 - 71 products are flagged LOW stock -- below their 2-week reorder point based on trailing average daily sales (outputs/low_stock_report.csv)
 - Top 3 products per category ranked by revenue, useful for merchandising and restock prioritization (outputs/top_products_by_category.csv)
 
+
+## Charts
+
+![Monthly revenue trend](outputs/charts/monthly_revenue_trend.png)
+![Revenue by category](outputs/charts/revenue_by_category.png)
+![Profit margin by category](outputs/charts/profit_margin_by_category.png)
+![Stock status summary](outputs/charts/stock_status_summary.png)
+
 ## Project Structure
 
 data/ - products.csv, sales.csv, inventory.csv, generate_data.py
