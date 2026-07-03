@@ -1,151 +1,801 @@
 product_name,category,current_stock,reorder_point,avg_daily_sales,days_of_cover,stock_status
-Sports-Item-4,Sports,0,5,0.42,0.0,LOW
-Electronics-Item-85,Electronics,55,4,0.32,169.4,OK
-Home-Item-62,Home & Kitchen,92,6,0.47,197.4,OK
-Apparel-Item-9,Apparel,120,6,0.44,270.2,OK
-Apparel-Item-82,Apparel,135,6,0.44,304.0,OK
-Sports-Item-31,Sports,220,6,0.47,464.7,OK
-Apparel-Item-83,Apparel,241,6,0.49,493.8,OK
-Home-Item-11,Home & Kitchen,245,6,0.48,509.6,OK
-Sports-Item-12,Sports,218,5,0.4,545.0,OK
-Home-Item-126,Home & Kitchen,229,5,0.41,552.2,OK
-Electronics-Item-129,Electronics,241,5,0.42,578.6,OK
-Electronics-Item-147,Electronics,247,5,0.4,623.2,OK
-Home-Item-70,Home & Kitchen,301,6,0.47,643.3,OK
-Electronics-Item-75,Electronics,235,4,0.35,670.5,OK
-Electronics-Item-38,Electronics,285,5,0.42,672.4,OK
-Apparel-Item-42,Apparel,267,5,0.39,689.6,OK
-Home-Item-139,Home & Kitchen,321,6,0.45,711.2,OK
-Home-Item-44,Home & Kitchen,329,6,0.43,759.8,OK
-Beauty-Item-47,Beauty,286,5,0.38,760.3,OK
-Apparel-Item-117,Apparel,347,6,0.45,778.3,OK
-Beauty-Item-77,Beauty,304,5,0.38,808.2,OK
-Apparel-Item-45,Apparel,348,5,0.42,831.8,OK
-Beauty-Item-30,Beauty,370,6,0.44,847.3,OK
-Home-Item-95,Home & Kitchen,339,5,0.39,859.3,OK
-Electronics-Item-128,Electronics,347,5,0.39,883.7,OK
-Apparel-Item-140,Apparel,451,6,0.48,934.6,OK
-Electronics-Item-92,Electronics,391,5,0.4,968.6,OK
-Apparel-Item-39,Apparel,374,5,0.39,970.6,OK
-Electronics-Item-100,Electronics,418,5,0.43,977.7,OK
-Sports-Item-134,Sports,423,6,0.43,981.0,OK
-Electronics-Item-84,Electronics,332,4,0.34,983.4,OK
-Beauty-Item-20,Beauty,401,5,0.41,984.4,OK
-Apparel-Item-16,Apparel,396,5,0.39,1003.8,OK
-Home-Item-121,Home & Kitchen,410,5,0.4,1025.0,OK
-Home-Item-67,Home & Kitchen,400,5,0.39,1038.1,OK
-Apparel-Item-55,Apparel,417,5,0.39,1062.0,OK
-Electronics-Item-52,Electronics,484,6,0.45,1072.3,OK
-Home-Item-89,Home & Kitchen,429,5,0.39,1092.5,OK
-Beauty-Item-94,Beauty,491,6,0.45,1096.7,OK
-Beauty-Item-46,Beauty,447,5,0.41,1102.3,OK
-Electronics-Item-123,Electronics,510,6,0.46,1120.8,OK
-Apparel-Item-49,Apparel,438,5,0.39,1136.7,OK
-Home-Item-3,Home & Kitchen,487,5,0.43,1144.0,OK
-Home-Item-137,Home & Kitchen,514,6,0.45,1148.1,OK
-Apparel-Item-149,Apparel,541,6,0.46,1188.9,OK
-Home-Item-144,Home & Kitchen,468,5,0.39,1197.5,OK
-Electronics-Item-79,Electronics,564,6,0.46,1224.6,OK
-Beauty-Item-50,Beauty,514,5,0.41,1239.5,OK
-Home-Item-72,Home & Kitchen,549,6,0.43,1273.2,OK
-Apparel-Item-5,Apparel,524,5,0.39,1334.5,OK
-Home-Item-138,Home & Kitchen,600,6,0.44,1356.8,OK
-Sports-Item-150,Sports,613,6,0.44,1380.5,OK
-Sports-Item-136,Sports,667,6,0.47,1420.0,OK
-Sports-Item-54,Sports,668,6,0.47,1427.7,OK
-Apparel-Item-74,Apparel,613,5,0.43,1433.8,OK
-Beauty-Item-133,Beauty,605,5,0.41,1459.0,OK
-Home-Item-80,Home & Kitchen,640,6,0.43,1490.6,OK
-Home-Item-36,Home & Kitchen,657,5,0.42,1577.4,OK
-Beauty-Item-43,Beauty,637,5,0.4,1592.5,OK
-Electronics-Item-35,Electronics,673,5,0.42,1594.7,OK
-Electronics-Item-103,Electronics,635,5,0.39,1617.2,OK
-Electronics-Item-7,Electronics,751,6,0.44,1691.3,OK
-Home-Item-24,Home & Kitchen,769,6,0.45,1724.7,OK
-Home-Item-130,Home & Kitchen,724,5,0.41,1777.4,OK
-Electronics-Item-142,Electronics,759,5,0.42,1790.7,OK
-Sports-Item-113,Sports,808,6,0.45,1804.8,OK
-Apparel-Item-120,Apparel,841,6,0.45,1878.5,OK
-Home-Item-17,Home & Kitchen,822,6,0.43,1890.3,OK
-Beauty-Item-98,Beauty,844,6,0.44,1908.6,OK
-Electronics-Item-63,Electronics,798,5,0.42,1915.9,OK
-Beauty-Item-56,Beauty,852,6,0.44,1942.8,OK
-Apparel-Item-101,Apparel,716,5,0.37,1960.9,OK
-Sports-Item-71,Sports,785,5,0.4,1980.7,OK
-Home-Item-18,Home & Kitchen,882,6,0.44,1994.6,OK
-Home-Item-76,Home & Kitchen,994,6,0.49,2044.3,OK
-Apparel-Item-108,Apparel,895,5,0.43,2093.5,OK
-Sports-Item-68,Sports,715,4,0.34,2095.0,OK
-Sports-Item-125,Sports,981,6,0.47,2096.6,OK
-Beauty-Item-107,Beauty,799,5,0.38,2113.9,OK
-Beauty-Item-14,Beauty,908,5,0.43,2133.0,OK
-Home-Item-114,Home & Kitchen,917,5,0.42,2201.6,OK
-Home-Item-1,Home & Kitchen,994,6,0.44,2238.6,OK
-Beauty-Item-58,Beauty,902,5,0.4,2255.0,OK
-Apparel-Item-8,Apparel,998,6,0.44,2285.3,OK
-Beauty-Item-28,Beauty,1005,6,0.44,2301.4,OK
-Home-Item-27,Home & Kitchen,1052,6,0.45,2349.8,OK
-Sports-Item-40,Sports,1065,6,0.45,2359.5,OK
-Sports-Item-127,Sports,1085,6,0.46,2365.3,OK
-Apparel-Item-145,Apparel,1187,6,0.48,2450.4,OK
-Home-Item-60,Home & Kitchen,915,5,0.37,2468.7,OK
-Electronics-Item-59,Electronics,1061,6,0.43,2471.1,OK
-Home-Item-141,Home & Kitchen,1056,5,0.42,2524.2,OK
-Beauty-Item-104,Beauty,918,4,0.35,2592.3,OK
-Electronics-Item-148,Electronics,1022,5,0.39,2602.8,OK
-Sports-Item-15,Sports,1264,6,0.48,2649.5,OK
-Sports-Item-124,Sports,1091,5,0.41,2690.5,OK
-Sports-Item-66,Sports,1230,6,0.45,2725.0,OK
-Apparel-Item-19,Apparel,1253,6,0.46,2731.5,OK
-Beauty-Item-102,Beauty,1032,5,0.37,2757.1,OK
-Home-Item-33,Home & Kitchen,1307,6,0.46,2837.9,OK
-Sports-Item-34,Sports,1109,5,0.39,2864.5,OK
-Apparel-Item-51,Apparel,1345,6,0.47,2874.6,OK
-Sports-Item-132,Sports,956,4,0.33,2878.6,OK
-Apparel-Item-10,Apparel,1205,5,0.41,2931.8,OK
-Home-Item-57,Home & Kitchen,1226,5,0.41,2956.5,OK
-Beauty-Item-21,Beauty,1294,6,0.44,2963.2,OK
-Apparel-Item-73,Apparel,1252,5,0.4,3115.7,OK
-Beauty-Item-87,Beauty,1282,5,0.41,3147.3,OK
-Sports-Item-32,Sports,1252,5,0.4,3159.0,OK
-Beauty-Item-61,Beauty,1298,5,0.4,3215.5,OK
-Home-Item-69,Home & Kitchen,1431,6,0.44,3222.7,OK
-Electronics-Item-13,Electronics,1273,5,0.39,3242.0,OK
-Home-Item-23,Home & Kitchen,1372,5,0.42,3265.2,OK
-Sports-Item-64,Sports,1436,6,0.44,3274.6,OK
-Apparel-Item-88,Apparel,1402,5,0.43,3279.4,OK
-Apparel-Item-105,Apparel,1411,5,0.43,3300.4,OK
-Home-Item-91,Home & Kitchen,1517,6,0.44,3444.9,OK
-Apparel-Item-41,Apparel,1322,5,0.38,3463.9,OK
-Beauty-Item-48,Beauty,1598,6,0.46,3483.6,OK
-Apparel-Item-143,Apparel,1314,5,0.38,3493.3,OK
-Home-Item-81,Home & Kitchen,1278,5,0.37,3500.1,OK
-Electronics-Item-116,Electronics,1506,5,0.42,3553.1,OK
-Home-Item-135,Home & Kitchen,1392,5,0.39,3612.6,OK
-Apparel-Item-93,Apparel,1485,5,0.41,3613.1,OK
-Apparel-Item-118,Apparel,1715,6,0.47,3636.9,OK
-Home-Item-122,Home & Kitchen,1593,6,0.43,3694.4,OK
-Sports-Item-131,Sports,1839,6,0.5,3698.4,OK
-Electronics-Item-65,Electronics,1722,6,0.46,3769.0,OK
-Apparel-Item-96,Apparel,1597,5,0.42,3784.2,OK
-Sports-Item-111,Sports,1570,5,0.41,3802.9,OK
-Sports-Item-29,Sports,1489,5,0.38,3920.3,OK
-Electronics-Item-37,Electronics,1699,6,0.43,3957.1,OK
-Beauty-Item-146,Beauty,1744,6,0.44,3976.9,OK
-Sports-Item-109,Sports,1814,6,0.45,4018.8,OK
-Electronics-Item-115,Electronics,1785,6,0.44,4019.9,OK
-Sports-Item-78,Sports,1679,5,0.4,4159.3,OK
-Apparel-Item-97,Apparel,1772,5,0.42,4198.9,OK
-Sports-Item-106,Sports,1736,5,0.41,4242.7,OK
-Apparel-Item-90,Apparel,1715,5,0.4,4267.9,OK
-Sports-Item-6,Sports,1637,5,0.38,4268.7,OK
-Apparel-Item-86,Apparel,1748,5,0.41,4291.3,OK
-Electronics-Item-25,Electronics,1873,6,0.43,4307.1,OK
-Electronics-Item-22,Electronics,1715,5,0.39,4347.3,OK
-Electronics-Item-110,Electronics,1697,5,0.39,4362.6,OK
-Home-Item-112,Home & Kitchen,1733,5,0.39,4393.0,OK
-Electronics-Item-2,Electronics,1717,5,0.38,4498.9,OK
-Home-Item-119,Home & Kitchen,1759,5,0.38,4676.4,OK
-Apparel-Item-99,Apparel,1722,5,0.36,4788.2,OK
-Home-Item-53,Home & Kitchen,1834,5,0.38,4805.4,OK
-Home-Item-26,Home & Kitchen,1735,4,0.35,4950.7,OK
+Home-Item-1,Home & Kitchen,0,4,0.36,0.0,LOW
+Sports-Item-4,Sports,0,4,0.35,0.0,LOW
+Sports-Item-6,Sports,0,4,0.34,0.0,LOW
+Apparel-Item-16,Apparel,0,4,0.35,0.0,LOW
+Home-Item-44,Home & Kitchen,0,4,0.33,0.0,LOW
+Home-Item-69,Home & Kitchen,0,5,0.39,0.0,LOW
+Apparel-Item-73,Apparel,0,4,0.35,0.0,LOW
+Electronics-Item-75,Electronics,0,4,0.31,0.0,LOW
+Apparel-Item-118,Apparel,0,5,0.36,0.0,LOW
+Sports-Item-131,Sports,0,4,0.34,0.0,LOW
+Electronics-Item-161,Electronics,0,4,0.35,0.0,LOW
+Electronics-Item-172,Electronics,0,5,0.36,0.0,LOW
+Sports-Item-183,Sports,0,5,0.37,0.0,LOW
+Beauty-Item-189,Beauty,0,4,0.34,0.0,LOW
+Sports-Item-204,Sports,0,4,0.33,0.0,LOW
+Electronics-Item-243,Electronics,0,5,0.37,0.0,LOW
+Home-Item-247,Home & Kitchen,0,4,0.31,0.0,LOW
+Sports-Item-251,Sports,0,4,0.35,0.0,LOW
+Home-Item-294,Home & Kitchen,0,4,0.31,0.0,LOW
+Apparel-Item-311,Apparel,0,5,0.37,0.0,LOW
+Beauty-Item-312,Beauty,0,4,0.35,0.0,LOW
+Sports-Item-315,Sports,0,4,0.32,0.0,LOW
+Electronics-Item-317,Electronics,0,5,0.38,0.0,LOW
+Apparel-Item-334,Apparel,0,5,0.36,0.0,LOW
+Beauty-Item-340,Beauty,0,5,0.36,0.0,LOW
+Home-Item-350,Home & Kitchen,0,5,0.4,0.0,LOW
+Beauty-Item-352,Beauty,0,5,0.38,0.0,LOW
+Electronics-Item-356,Electronics,0,5,0.36,0.0,LOW
+Electronics-Item-366,Electronics,0,4,0.34,0.0,LOW
+Sports-Item-382,Sports,0,5,0.38,0.0,LOW
+Electronics-Item-384,Electronics,0,5,0.38,0.0,LOW
+Beauty-Item-390,Beauty,0,5,0.38,0.0,LOW
+Electronics-Item-391,Electronics,0,4,0.35,0.0,LOW
+Sports-Item-395,Sports,0,4,0.33,0.0,LOW
+Sports-Item-399,Sports,0,4,0.35,0.0,LOW
+Sports-Item-403,Sports,0,4,0.33,0.0,LOW
+Sports-Item-405,Sports,0,5,0.4,0.0,LOW
+Apparel-Item-417,Apparel,0,5,0.39,0.0,LOW
+Beauty-Item-422,Beauty,0,4,0.33,0.0,LOW
+Electronics-Item-428,Electronics,0,5,0.38,0.0,LOW
+Electronics-Item-448,Electronics,0,4,0.36,0.0,LOW
+Home-Item-477,Home & Kitchen,0,4,0.33,0.0,LOW
+Sports-Item-491,Sports,0,4,0.33,0.0,LOW
+Beauty-Item-494,Beauty,0,4,0.32,0.0,LOW
+Apparel-Item-503,Apparel,0,5,0.37,0.0,LOW
+Apparel-Item-504,Apparel,0,4,0.34,0.0,LOW
+Beauty-Item-532,Beauty,0,4,0.35,0.0,LOW
+Home-Item-534,Home & Kitchen,0,4,0.32,0.0,LOW
+Apparel-Item-544,Apparel,0,4,0.34,0.0,LOW
+Electronics-Item-549,Electronics,0,5,0.38,0.0,LOW
+Electronics-Item-564,Electronics,0,5,0.36,0.0,LOW
+Home-Item-567,Home & Kitchen,0,4,0.34,0.0,LOW
+Electronics-Item-568,Electronics,0,5,0.38,0.0,LOW
+Electronics-Item-591,Electronics,0,4,0.34,0.0,LOW
+Electronics-Item-604,Electronics,0,4,0.34,0.0,LOW
+Sports-Item-609,Sports,0,4,0.33,0.0,LOW
+Electronics-Item-613,Electronics,0,4,0.34,0.0,LOW
+Sports-Item-614,Sports,0,4,0.36,0.0,LOW
+Apparel-Item-617,Apparel,0,5,0.37,0.0,LOW
+Electronics-Item-619,Electronics,0,5,0.37,0.0,LOW
+Beauty-Item-620,Beauty,0,4,0.34,0.0,LOW
+Apparel-Item-653,Apparel,0,4,0.35,0.0,LOW
+Sports-Item-656,Sports,0,4,0.35,0.0,LOW
+Sports-Item-664,Sports,0,4,0.33,0.0,LOW
+Home-Item-688,Home & Kitchen,0,4,0.35,0.0,LOW
+Electronics-Item-699,Electronics,0,4,0.33,0.0,LOW
+Apparel-Item-703,Apparel,0,4,0.35,0.0,LOW
+Electronics-Item-770,Electronics,0,4,0.32,0.0,LOW
+Beauty-Item-781,Beauty,0,4,0.31,0.0,LOW
+Electronics-Item-783,Electronics,0,5,0.38,0.0,LOW
+Apparel-Item-787,Apparel,0,4,0.36,0.0,LOW
+Apparel-Item-234,Apparel,5,5,0.37,13.6,OK
+Sports-Item-303,Sports,9,4,0.35,25.5,OK
+Electronics-Item-100,Electronics,13,4,0.32,40.0,OK
+Home-Item-374,Home & Kitchen,16,4,0.35,45.6,OK
+Electronics-Item-461,Electronics,16,4,0.33,48.3,OK
+Apparel-Item-140,Apparel,18,4,0.34,53.6,OK
+Apparel-Item-97,Apparel,19,4,0.33,57.8,OK
+Home-Item-36,Home & Kitchen,24,4,0.33,72.3,OK
+Electronics-Item-22,Electronics,28,5,0.36,77.9,OK
+Apparel-Item-261,Apparel,30,5,0.37,81.2,OK
+Electronics-Item-541,Electronics,26,4,0.32,81.8,OK
+Home-Item-122,Home & Kitchen,30,4,0.34,88.1,OK
+Beauty-Item-371,Beauty,31,4,0.34,91.4,OK
+Sports-Item-554,Sports,39,4,0.36,109.5,OK
+Beauty-Item-585,Beauty,39,4,0.35,110.4,OK
+Sports-Item-170,Sports,38,4,0.33,113.9,OK
+Home-Item-443,Home & Kitchen,41,4,0.35,117.1,OK
+Apparel-Item-650,Apparel,46,5,0.36,126.9,OK
+Apparel-Item-421,Apparel,48,5,0.37,130.4,OK
+Apparel-Item-339,Apparel,47,4,0.35,132.8,OK
+Sports-Item-32,Sports,56,5,0.38,146.3,OK
+Beauty-Item-61,Beauty,53,5,0.36,148.1,OK
+Beauty-Item-295,Beauty,57,5,0.36,158.6,OK
+Apparel-Item-86,Apparel,58,4,0.36,162.5,OK
+Electronics-Item-394,Electronics,57,4,0.34,166.2,OK
+Home-Item-696,Home & Kitchen,60,4,0.35,172.6,OK
+Sports-Item-175,Sports,58,4,0.32,179.3,OK
+Beauty-Item-571,Beauty,63,4,0.34,186.7,OK
+Sports-Item-723,Sports,63,4,0.33,190.6,OK
+Apparel-Item-220,Apparel,70,5,0.36,193.5,OK
+Home-Item-450,Home & Kitchen,72,5,0.36,199.0,OK
+Home-Item-333,Home & Kitchen,69,4,0.32,213.8,OK
+Apparel-Item-466,Apparel,75,4,0.35,216.2,OK
+Apparel-Item-712,Apparel,74,4,0.34,218.2,OK
+Apparel-Item-517,Apparel,80,5,0.36,223.6,OK
+Home-Item-607,Home & Kitchen,86,5,0.37,229.8,OK
+Sports-Item-673,Sports,84,4,0.35,238.4,OK
+Home-Item-694,Home & Kitchen,84,4,0.34,248.3,OK
+Home-Item-605,Home & Kitchen,80,4,0.32,252.8,OK
+Electronics-Item-682,Electronics,97,5,0.38,254.9,OK
+Beauty-Item-398,Beauty,84,4,0.33,256.0,OK
+Sports-Item-15,Sports,88,4,0.34,258.9,OK
+Beauty-Item-216,Beauty,95,5,0.37,259.8,OK
+Apparel-Item-740,Apparel,94,4,0.35,265.0,OK
+Electronics-Item-509,Electronics,97,5,0.36,267.6,OK
+Sports-Item-370,Sports,92,4,0.32,285.1,OK
+Apparel-Item-538,Apparel,96,4,0.33,291.2,OK
+Electronics-Item-511,Electronics,99,4,0.34,295.4,OK
+Electronics-Item-224,Electronics,103,4,0.35,295.6,OK
+Sports-Item-698,Sports,115,5,0.37,313.9,OK
+Electronics-Item-129,Electronics,111,4,0.34,325.9,OK
+Sports-Item-697,Sports,125,5,0.37,334.7,OK
+Apparel-Item-267,Apparel,121,4,0.36,338.9,OK
+Apparel-Item-5,Apparel,123,5,0.36,339.3,OK
+Electronics-Item-359,Electronics,118,4,0.34,342.5,OK
+Electronics-Item-65,Electronics,122,4,0.34,354.9,OK
+Beauty-Item-498,Beauty,117,4,0.32,360.0,OK
+Beauty-Item-281,Beauty,125,4,0.35,360.4,OK
+Apparel-Item-388,Apparel,112,4,0.31,366.6,OK
+Beauty-Item-169,Beauty,137,5,0.37,370.0,OK
+Electronics-Item-269,Electronics,124,4,0.33,373.5,OK
+Electronics-Item-221,Electronics,145,5,0.39,375.7,OK
+Beauty-Item-56,Beauty,133,4,0.35,377.5,OK
+Sports-Item-64,Sports,141,4,0.36,394.9,OK
+Beauty-Item-102,Beauty,134,4,0.33,401.7,OK
+Electronics-Item-355,Electronics,126,4,0.31,402.2,OK
+Beauty-Item-636,Beauty,137,4,0.34,405.0,OK
+Apparel-Item-299,Apparel,137,4,0.33,416.5,OK
+Beauty-Item-277,Beauty,141,4,0.34,418.7,OK
+Home-Item-343,Home & Kitchen,140,4,0.33,418.7,OK
+Home-Item-679,Home & Kitchen,162,5,0.39,418.9,OK
+Home-Item-191,Home & Kitchen,151,4,0.35,426.7,OK
+Apparel-Item-431,Apparel,146,4,0.34,431.6,OK
+Beauty-Item-706,Beauty,151,4,0.35,434.3,OK
+Sports-Item-150,Sports,142,4,0.32,446.6,OK
+Beauty-Item-237,Beauty,149,4,0.33,448.8,OK
+Electronics-Item-363,Electronics,149,4,0.33,448.8,OK
+Beauty-Item-744,Beauty,147,4,0.32,455.6,OK
+Electronics-Item-387,Electronics,152,4,0.33,457.8,OK
+Beauty-Item-505,Beauty,160,4,0.34,477.4,OK
+Electronics-Item-530,Electronics,182,5,0.38,482.3,OK
+Sports-Item-713,Sports,172,4,0.36,482.8,OK
+Electronics-Item-464,Electronics,157,4,0.32,483.1,OK
+Apparel-Item-595,Apparel,188,5,0.39,488.1,OK
+Home-Item-130,Home & Kitchen,174,4,0.35,490.6,OK
+Sports-Item-379,Sports,178,5,0.36,492.1,OK
+Beauty-Item-574,Beauty,170,4,0.34,493.4,OK
+Electronics-Item-442,Electronics,161,4,0.32,497.8,OK
+Home-Item-184,Home & Kitchen,172,4,0.34,503.8,OK
+Electronics-Item-766,Electronics,194,5,0.38,517.3,OK
+Sports-Item-524,Sports,180,4,0.35,520.1,OK
+Beauty-Item-187,Beauty,169,4,0.32,523.8,OK
+Electronics-Item-785,Electronics,182,4,0.34,540.5,OK
+Apparel-Item-158,Apparel,195,4,0.35,549.8,OK
+Apparel-Item-631,Apparel,185,4,0.34,550.7,OK
+Apparel-Item-667,Apparel,197,4,0.36,551.8,OK
+Sports-Item-586,Sports,169,4,0.3,563.3,OK
+Electronics-Item-63,Electronics,202,4,0.36,568.3,OK
+Electronics-Item-364,Electronics,210,5,0.36,576.8,OK
+Sports-Item-615,Sports,208,4,0.35,587.7,OK
+Beauty-Item-58,Beauty,209,4,0.35,594.5,OK
+Apparel-Item-74,Apparel,191,4,0.32,594.8,OK
+Apparel-Item-754,Apparel,211,4,0.35,598.8,OK
+Beauty-Item-493,Beauty,215,4,0.35,615.7,OK
+Electronics-Item-155,Electronics,206,4,0.33,619.0,OK
+Home-Item-253,Home & Kitchen,195,4,0.31,619.4,OK
+Electronics-Item-38,Electronics,223,5,0.36,621.9,OK
+Sports-Item-71,Sports,227,5,0.36,623.5,OK
+Beauty-Item-684,Beauty,216,4,0.34,629.8,OK
+Apparel-Item-678,Apparel,215,4,0.34,631.2,OK
+Beauty-Item-734,Beauty,221,4,0.35,631.4,OK
+Electronics-Item-510,Electronics,214,4,0.34,634.1,OK
+Beauty-Item-418,Beauty,206,4,0.32,643.1,OK
+Sports-Item-639,Sports,218,4,0.34,645.9,OK
+Electronics-Item-720,Electronics,214,4,0.32,674.7,OK
+Apparel-Item-208,Apparel,232,4,0.34,676.4,OK
+Home-Item-358,Home & Kitchen,247,5,0.36,682.9,OK
+Apparel-Item-383,Apparel,215,4,0.31,682.9,OK
+Apparel-Item-590,Apparel,241,4,0.35,685.5,OK
+Apparel-Item-55,Apparel,255,5,0.37,685.7,OK
+Apparel-Item-8,Apparel,224,4,0.33,687.6,OK
+Sports-Item-514,Sports,258,5,0.37,698.2,OK
+Apparel-Item-255,Apparel,243,4,0.34,711.8,OK
+Electronics-Item-433,Electronics,260,5,0.36,715.7,OK
+Sports-Item-362,Sports,272,5,0.38,719.3,OK
+Beauty-Item-98,Beauty,255,4,0.35,725.3,OK
+Home-Item-192,Home & Kitchen,272,5,0.37,736.1,OK
+Sports-Item-478,Sports,261,4,0.35,740.8,OK
+Apparel-Item-117,Apparel,290,5,0.39,746.9,OK
+Electronics-Item-128,Electronics,267,4,0.35,754.4,OK
+Sports-Item-40,Sports,229,4,0.3,755.5,OK
+Beauty-Item-551,Beauty,252,4,0.33,762.6,OK
+Home-Item-144,Home & Kitchen,260,4,0.34,774.0,OK
+Home-Item-437,Home & Kitchen,276,4,0.35,783.3,OK
+Sports-Item-792,Sports,288,5,0.36,789.4,OK
+Home-Item-742,Home & Kitchen,263,4,0.33,797.7,OK
+Electronics-Item-342,Electronics,262,4,0.33,800.4,OK
+Electronics-Item-537,Electronics,261,4,0.32,803.1,OK
+Electronics-Item-691,Electronics,266,4,0.33,804.9,OK
+Apparel-Item-608,Apparel,275,4,0.34,809.2,OK
+Sports-Item-273,Sports,290,4,0.36,814.0,OK
+Home-Item-715,Home & Kitchen,309,5,0.38,815.5,OK
+Home-Item-606,Home & Kitchen,292,5,0.36,816.1,OK
+Beauty-Item-648,Beauty,305,5,0.37,821.9,OK
+Apparel-Item-176,Apparel,278,4,0.33,831.4,OK
+Sports-Item-577,Sports,312,5,0.37,837.2,OK
+Apparel-Item-93,Apparel,284,4,0.34,839.5,OK
+Sports-Item-543,Sports,273,4,0.32,840.0,OK
+Apparel-Item-472,Apparel,308,5,0.36,855.2,OK
+Home-Item-284,Home & Kitchen,298,4,0.35,857.2,OK
+Sports-Item-753,Sports,313,5,0.36,865.3,OK
+Sports-Item-791,Sports,278,4,0.32,870.0,OK
+Home-Item-306,Home & Kitchen,302,4,0.35,870.6,OK
+Electronics-Item-307,Electronics,331,5,0.38,871.8,OK
+Beauty-Item-228,Beauty,312,4,0.35,881.6,OK
+Home-Item-515,Home & Kitchen,290,4,0.33,885.9,OK
+Sports-Item-195,Sports,321,4,0.36,901.1,OK
+Apparel-Item-455,Apparel,317,4,0.35,901.7,OK
+Sports-Item-767,Sports,295,4,0.32,934.7,OK
+Apparel-Item-565,Apparel,328,4,0.35,947.7,OK
+Apparel-Item-611,Apparel,318,4,0.34,948.8,OK
+Electronics-Item-439,Electronics,354,5,0.37,960.0,OK
+Sports-Item-755,Sports,321,4,0.33,960.0,OK
+Sports-Item-111,Sports,368,5,0.38,967.2,OK
+Sports-Item-692,Sports,318,4,0.33,971.5,OK
+Apparel-Item-246,Apparel,381,5,0.39,975.4,OK
+Beauty-Item-581,Beauty,348,4,0.36,976.8,OK
+Home-Item-137,Home & Kitchen,364,5,0.36,997.7,OK
+Home-Item-308,Home & Kitchen,351,4,0.35,998.4,OK
+Electronics-Item-419,Electronics,334,4,0.33,1003.6,OK
+Home-Item-166,Home & Kitchen,336,4,0.33,1004.9,OK
+Beauty-Item-214,Beauty,329,4,0.32,1012.3,OK
+Apparel-Item-258,Apparel,364,5,0.36,1012.9,OK
+Apparel-Item-726,Apparel,359,4,0.35,1014.4,OK
+Sports-Item-593,Sports,351,4,0.34,1018.8,OK
+Apparel-Item-553,Apparel,347,4,0.34,1028.1,OK
+Sports-Item-323,Sports,353,4,0.34,1029.2,OK
+Beauty-Item-462,Beauty,350,4,0.34,1029.9,OK
+Apparel-Item-722,Apparel,381,5,0.37,1035.4,OK
+Beauty-Item-46,Beauty,354,4,0.34,1041.7,OK
+Apparel-Item-402,Apparel,373,4,0.36,1049.3,OK
+Home-Item-599,Home & Kitchen,352,4,0.33,1057.7,OK
+Home-Item-771,Home & Kitchen,362,4,0.34,1062.8,OK
+Sports-Item-12,Sports,384,5,0.36,1066.2,OK
+Home-Item-718,Home & Kitchen,394,5,0.37,1070.7,OK
+Electronics-Item-288,Electronics,395,5,0.37,1071.2,OK
+Home-Item-223,Home & Kitchen,380,4,0.35,1071.4,OK
+Apparel-Item-693,Apparel,384,4,0.35,1082.6,OK
+Apparel-Item-738,Apparel,388,4,0.36,1089.1,OK
+Apparel-Item-49,Apparel,414,5,0.38,1104.0,OK
+Beauty-Item-436,Beauty,395,4,0.36,1111.2,OK
+Apparel-Item-550,Apparel,375,4,0.34,1113.7,OK
+Electronics-Item-37,Electronics,414,5,0.37,1122.7,OK
+Sports-Item-274,Sports,380,4,0.34,1131.2,OK
+Home-Item-540,Home & Kitchen,395,4,0.35,1133.6,OK
+Beauty-Item-468,Beauty,394,4,0.34,1143.6,OK
+Electronics-Item-736,Electronics,392,4,0.34,1145.6,OK
+Electronics-Item-79,Electronics,431,5,0.37,1156.6,OK
+Home-Item-651,Home & Kitchen,402,4,0.34,1169.5,OK
+Home-Item-600,Home & Kitchen,392,4,0.33,1186.2,OK
+Beauty-Item-290,Beauty,356,4,0.3,1192.9,OK
+Apparel-Item-353,Apparel,395,4,0.33,1195.3,OK
+Home-Item-241,Home & Kitchen,422,4,0.35,1203.0,OK
+Beauty-Item-765,Beauty,400,4,0.33,1213.3,OK
+Home-Item-705,Home & Kitchen,448,5,0.37,1214.9,OK
+Beauty-Item-324,Beauty,448,5,0.37,1217.5,OK
+Beauty-Item-628,Beauty,410,4,0.34,1217.6,OK
+Home-Item-33,Home & Kitchen,426,4,0.35,1222.6,OK
+Apparel-Item-768,Apparel,416,4,0.34,1232.6,OK
+Electronics-Item-451,Electronics,426,4,0.34,1242.1,OK
+Apparel-Item-741,Apparel,395,4,0.32,1242.3,OK
+Electronics-Item-285,Electronics,428,4,0.34,1247.9,OK
+Electronics-Item-776,Electronics,439,4,0.35,1251.5,OK
+Sports-Item-446,Sports,421,4,0.34,1253.2,OK
+Home-Item-305,Home & Kitchen,438,4,0.35,1254.2,OK
+Beauty-Item-533,Beauty,419,4,0.33,1256.0,OK
+Apparel-Item-149,Apparel,393,4,0.31,1260.8,OK
+Sports-Item-583,Sports,387,4,0.31,1263.7,OK
+Sports-Item-434,Sports,407,4,0.32,1270.6,OK
+Beauty-Item-622,Beauty,452,4,0.35,1274.4,OK
+Apparel-Item-652,Apparel,446,4,0.35,1291.6,OK
+Home-Item-672,Home & Kitchen,447,4,0.34,1300.4,OK
+Apparel-Item-654,Apparel,441,4,0.34,1300.6,OK
+Apparel-Item-45,Apparel,462,4,0.35,1302.6,OK
+Home-Item-793,Home & Kitchen,454,4,0.35,1303.0,OK
+Home-Item-400,Home & Kitchen,438,4,0.34,1303.8,OK
+Beauty-Item-484,Beauty,429,4,0.33,1316.8,OK
+Beauty-Item-199,Beauty,440,4,0.33,1325.2,OK
+Electronics-Item-244,Electronics,512,5,0.38,1337.5,OK
+Home-Item-293,Home & Kitchen,464,4,0.35,1337.7,OK
+Electronics-Item-377,Electronics,463,4,0.34,1375.0,OK
+Apparel-Item-750,Apparel,453,4,0.33,1387.2,OK
+Apparel-Item-627,Apparel,449,4,0.32,1391.6,OK
+Home-Item-794,Home & Kitchen,435,4,0.31,1395.5,OK
+Beauty-Item-227,Beauty,471,4,0.34,1402.0,OK
+Apparel-Item-486,Apparel,520,5,0.37,1404.2,OK
+Apparel-Item-716,Apparel,459,4,0.33,1408.9,OK
+Home-Item-11,Home & Kitchen,468,4,0.33,1409.5,OK
+Sports-Item-714,Sports,459,4,0.32,1412.3,OK
+Home-Item-194,Home & Kitchen,556,5,0.39,1423.4,OK
+Apparel-Item-272,Apparel,480,4,0.34,1432.2,OK
+Electronics-Item-52,Electronics,505,4,0.35,1433.3,OK
+Electronics-Item-733,Electronics,485,4,0.34,1433.7,OK
+Electronics-Item-454,Electronics,510,4,0.36,1434.7,OK
+Apparel-Item-88,Apparel,509,4,0.35,1444.6,OK
+Apparel-Item-10,Apparel,503,4,0.35,1446.8,OK
+Beauty-Item-414,Beauty,499,4,0.34,1451.6,OK
+Home-Item-276,Home & Kitchen,468,4,0.32,1457.5,OK
+Sports-Item-292,Sports,542,5,0.37,1469.8,OK
+Apparel-Item-39,Apparel,510,4,0.35,1473.6,OK
+Home-Item-57,Home & Kitchen,476,4,0.32,1478.8,OK
+Beauty-Item-210,Beauty,474,4,0.32,1479.8,OK
+Apparel-Item-242,Apparel,480,4,0.32,1494.9,OK
+Beauty-Item-701,Beauty,507,4,0.34,1495.3,OK
+Electronics-Item-196,Electronics,545,5,0.36,1503.4,OK
+Home-Item-278,Home & Kitchen,524,4,0.35,1503.9,OK
+Apparel-Item-522,Apparel,503,4,0.33,1507.8,OK
+Electronics-Item-634,Electronics,519,4,0.34,1513.3,OK
+Beauty-Item-626,Beauty,490,4,0.32,1522.3,OK
+Home-Item-449,Home & Kitchen,489,4,0.32,1522.9,OK
+Sports-Item-525,Sports,561,5,0.37,1531.1,OK
+Sports-Item-168,Sports,554,5,0.36,1534.9,OK
+Home-Item-704,Home & Kitchen,543,4,0.35,1537.7,OK
+Sports-Item-624,Sports,554,4,0.36,1551.7,OK
+Beauty-Item-50,Beauty,444,3,0.29,1557.0,OK
+Beauty-Item-630,Beauty,622,5,0.4,1573.4,OK
+Electronics-Item-298,Electronics,613,5,0.39,1585.1,OK
+Apparel-Item-96,Apparel,550,4,0.35,1585.6,OK
+Electronics-Item-432,Electronics,646,5,0.41,1587.1,OK
+Apparel-Item-185,Apparel,573,5,0.36,1594.4,OK
+Electronics-Item-579,Electronics,527,4,0.33,1602.3,OK
+Home-Item-775,Home & Kitchen,558,4,0.35,1608.6,OK
+Home-Item-89,Home & Kitchen,521,4,0.32,1634.5,OK
+Apparel-Item-375,Apparel,564,4,0.34,1637.0,OK
+Beauty-Item-330,Beauty,567,4,0.34,1649.5,OK
+Home-Item-671,Home & Kitchen,551,4,0.33,1651.7,OK
+Home-Item-523,Home & Kitchen,576,4,0.34,1671.8,OK
+Home-Item-758,Home & Kitchen,510,4,0.3,1673.8,OK
+Beauty-Item-444,Beauty,574,4,0.34,1681.3,OK
+Apparel-Item-83,Apparel,597,4,0.35,1686.9,OK
+Home-Item-279,Home & Kitchen,577,4,0.34,1690.1,OK
+Electronics-Item-265,Electronics,601,4,0.36,1690.7,OK
+Beauty-Item-708,Beauty,590,4,0.35,1697.1,OK
+Home-Item-748,Home & Kitchen,596,4,0.35,1699.1,OK
+Apparel-Item-341,Apparel,532,4,0.31,1711.0,OK
+Home-Item-268,Home & Kitchen,609,4,0.35,1717.0,OK
+Electronics-Item-638,Electronics,584,4,0.34,1730.4,OK
+Beauty-Item-521,Beauty,590,4,0.34,1736.1,OK
+Sports-Item-573,Sports,599,4,0.34,1738.6,OK
+Sports-Item-360,Sports,598,4,0.34,1743.6,OK
+Beauty-Item-28,Beauty,663,5,0.38,1746.2,OK
+Home-Item-409,Home & Kitchen,594,4,0.34,1747.9,OK
+Electronics-Item-429,Electronics,612,4,0.35,1756.4,OK
+Apparel-Item-108,Apparel,612,4,0.35,1772.3,OK
+Electronics-Item-602,Electronics,592,4,0.33,1778.8,OK
+Beauty-Item-319,Beauty,614,4,0.34,1794.3,OK
+Sports-Item-507,Sports,607,4,0.34,1794.4,OK
+Home-Item-67,Home & Kitchen,576,4,0.32,1798.2,OK
+Home-Item-271,Home & Kitchen,643,4,0.36,1808.9,OK
+Electronics-Item-372,Electronics,554,4,0.31,1809.0,OK
+Sports-Item-167,Sports,594,4,0.33,1814.6,OK
+Beauty-Item-663,Beauty,654,5,0.36,1819.8,OK
+Electronics-Item-747,Electronics,615,4,0.33,1843.6,OK
+Apparel-Item-212,Apparel,670,5,0.36,1844.3,OK
+Home-Item-91,Home & Kitchen,643,4,0.35,1849.5,OK
+Home-Item-670,Home & Kitchen,681,5,0.37,1850.7,OK
+Apparel-Item-9,Apparel,625,4,0.34,1856.1,OK
+Apparel-Item-90,Apparel,654,4,0.35,1877.0,OK
+Electronics-Item-423,Electronics,635,4,0.34,1881.5,OK
+Electronics-Item-301,Electronics,603,4,0.32,1891.8,OK
+Home-Item-410,Home & Kitchen,655,4,0.35,1892.6,OK
+Beauty-Item-769,Beauty,707,5,0.37,1901.2,OK
+Electronics-Item-412,Electronics,630,4,0.33,1901.9,OK
+Electronics-Item-730,Electronics,592,4,0.31,1903.9,OK
+Home-Item-560,Home & Kitchen,694,5,0.36,1906.3,OK
+Sports-Item-29,Sports,652,4,0.34,1909.7,OK
+Sports-Item-316,Sports,718,5,0.37,1930.8,OK
+Electronics-Item-148,Electronics,654,4,0.34,1942.3,OK
+Apparel-Item-238,Apparel,673,4,0.35,1944.6,OK
+Beauty-Item-270,Beauty,651,4,0.33,1956.1,OK
+Home-Item-177,Home & Kitchen,640,4,0.32,1969.2,OK
+Home-Item-797,Home & Kitchen,680,4,0.34,1978.2,OK
+Electronics-Item-474,Electronics,680,4,0.34,1987.2,OK
+Beauty-Item-665,Beauty,738,5,0.37,2005.6,OK
+Beauty-Item-480,Beauty,734,5,0.37,2007.5,OK
+Home-Item-582,Home & Kitchen,712,4,0.35,2020.8,OK
+Home-Item-178,Home & Kitchen,715,4,0.35,2024.8,OK
+Home-Item-592,Home & Kitchen,615,4,0.3,2034.1,OK
+Beauty-Item-332,Beauty,694,4,0.34,2037.4,OK
+Sports-Item-496,Sports,638,4,0.31,2041.6,OK
+Beauty-Item-260,Beauty,759,5,0.37,2062.7,OK
+Beauty-Item-30,Beauty,766,5,0.37,2064.2,OK
+Sports-Item-479,Sports,724,4,0.35,2068.6,OK
+Electronics-Item-386,Electronics,619,4,0.3,2068.7,OK
+Sports-Item-572,Sports,661,4,0.32,2068.7,OK
+Beauty-Item-328,Beauty,691,4,0.33,2081.1,OK
+Sports-Item-124,Sports,672,4,0.32,2082.7,OK
+Electronics-Item-368,Electronics,738,4,0.35,2085.3,OK
+Apparel-Item-566,Apparel,768,5,0.37,2087.1,OK
+Beauty-Item-107,Beauty,702,4,0.34,2089.7,OK
+Sports-Item-314,Sports,776,5,0.37,2091.1,OK
+Apparel-Item-250,Apparel,801,5,0.38,2092.4,OK
+Electronics-Item-297,Electronics,660,4,0.31,2101.5,OK
+Sports-Item-536,Sports,740,4,0.35,2109.6,OK
+Apparel-Item-159,Apparel,662,4,0.31,2113.1,OK
+Home-Item-612,Home & Kitchen,702,4,0.33,2114.3,OK
+Sports-Item-203,Sports,712,4,0.34,2114.5,OK
+Electronics-Item-142,Electronics,727,4,0.34,2114.9,OK
+Home-Item-416,Home & Kitchen,789,5,0.37,2117.2,OK
+Home-Item-445,Home & Kitchen,647,4,0.31,2118.1,OK
+Beauty-Item-709,Beauty,734,4,0.35,2120.8,OK
+Beauty-Item-14,Beauty,706,4,0.33,2121.3,OK
+Electronics-Item-116,Electronics,764,4,0.36,2144.6,OK
+Apparel-Item-548,Apparel,745,4,0.35,2147.7,OK
+Sports-Item-338,Sports,769,4,0.35,2172.9,OK
+Electronics-Item-193,Electronics,697,4,0.32,2186.7,OK
+Sports-Item-798,Sports,665,4,0.3,2188.2,OK
+Beauty-Item-467,Beauty,788,5,0.36,2202.3,OK
+Beauty-Item-499,Beauty,745,4,0.34,2207.4,OK
+Apparel-Item-51,Apparel,751,4,0.34,2209.8,OK
+Home-Item-114,Home & Kitchen,791,4,0.35,2230.1,OK
+Beauty-Item-459,Beauty,830,5,0.37,2231.9,OK
+Sports-Item-282,Sports,767,4,0.34,2241.5,OK
+Beauty-Item-296,Beauty,781,4,0.35,2246.5,OK
+Home-Item-202,Home & Kitchen,757,4,0.34,2258.6,OK
+Apparel-Item-213,Apparel,742,4,0.33,2261.3,OK
+Apparel-Item-438,Apparel,824,5,0.36,2268.2,OK
+Beauty-Item-331,Beauty,764,4,0.34,2269.0,OK
+Home-Item-24,Home & Kitchen,856,5,0.38,2273.2,OK
+Apparel-Item-165,Apparel,844,5,0.37,2288.8,OK
+Sports-Item-542,Sports,803,4,0.35,2289.2,OK
+Home-Item-529,Home & Kitchen,770,4,0.34,2292.1,OK
+Beauty-Item-520,Beauty,740,4,0.32,2304.6,OK
+Beauty-Item-725,Beauty,800,4,0.35,2306.3,OK
+Sports-Item-245,Sports,824,4,0.36,2313.0,OK
+Home-Item-3,Home & Kitchen,765,4,0.33,2314.9,OK
+Beauty-Item-21,Beauty,757,4,0.33,2318.1,OK
+Electronics-Item-580,Electronics,882,5,0.38,2323.0,OK
+Apparel-Item-105,Apparel,765,4,0.33,2325.9,OK
+Beauty-Item-349,Beauty,858,5,0.37,2326.8,OK
+Electronics-Item-737,Electronics,853,5,0.36,2343.0,OK
+Electronics-Item-156,Electronics,831,4,0.35,2348.1,OK
+Electronics-Item-777,Electronics,782,4,0.33,2349.7,OK
+Beauty-Item-435,Beauty,896,5,0.38,2350.2,OK
+Home-Item-724,Home & Kitchen,776,4,0.33,2353.7,OK
+Beauty-Item-396,Beauty,788,4,0.33,2373.3,OK
+Home-Item-610,Home & Kitchen,882,5,0.37,2396.9,OK
+Sports-Item-666,Sports,781,4,0.33,2397.3,OK
+Beauty-Item-254,Beauty,859,5,0.36,2400.7,OK
+Home-Item-404,Home & Kitchen,816,4,0.34,2401.1,OK
+Beauty-Item-460,Beauty,869,5,0.36,2418.1,OK
+Apparel-Item-99,Apparel,864,4,0.36,2420.0,OK
+Apparel-Item-42,Apparel,747,4,0.31,2420.7,OK
+Home-Item-141,Home & Kitchen,796,4,0.33,2425.9,OK
+Apparel-Item-365,Apparel,774,4,0.32,2428.2,OK
+Apparel-Item-683,Apparel,936,5,0.38,2450.1,OK
+Sports-Item-773,Sports,824,4,0.34,2452.8,OK
+Beauty-Item-190,Beauty,884,5,0.36,2459.8,OK
+Electronics-Item-147,Electronics,848,4,0.34,2472.5,OK
+Beauty-Item-401,Beauty,890,5,0.36,2476.5,OK
+Apparel-Item-519,Apparel,825,4,0.33,2478.9,OK
+Beauty-Item-219,Beauty,828,4,0.33,2499.6,OK
+Electronics-Item-721,Electronics,822,4,0.33,2511.1,OK
+Sports-Item-34,Sports,928,5,0.37,2511.3,OK
+Sports-Item-657,Sports,858,4,0.34,2513.1,OK
+Home-Item-72,Home & Kitchen,927,5,0.37,2519.2,OK
+Sports-Item-181,Sports,935,5,0.37,2535.6,OK
+Home-Item-772,Home & Kitchen,898,4,0.35,2548.6,OK
+Beauty-Item-280,Beauty,910,4,0.36,2554.4,OK
+Apparel-Item-800,Apparel,1007,5,0.39,2557.5,OK
+Sports-Item-78,Sports,904,4,0.35,2560.0,OK
+Beauty-Item-796,Beauty,833,4,0.32,2563.1,OK
+Electronics-Item-415,Electronics,844,4,0.33,2566.1,OK
+Sports-Item-556,Sports,833,4,0.32,2569.3,OK
+Electronics-Item-576,Electronics,895,4,0.35,2580.2,OK
+Home-Item-138,Home & Kitchen,823,4,0.32,2582.0,OK
+Home-Item-26,Home & Kitchen,955,5,0.37,2595.3,OK
+Electronics-Item-481,Electronics,898,4,0.35,2600.5,OK
+Home-Item-778,Home & Kitchen,950,5,0.36,2609.4,OK
+Sports-Item-109,Sports,969,5,0.37,2611.2,OK
+Beauty-Item-283,Beauty,862,4,0.33,2627.0,OK
+Apparel-Item-351,Apparel,910,4,0.35,2629.3,OK
+Sports-Item-302,Sports,922,4,0.35,2634.3,OK
+Beauty-Item-389,Beauty,907,4,0.34,2638.5,OK
+Apparel-Item-232,Apparel,861,4,0.32,2649.2,OK
+Beauty-Item-695,Beauty,955,5,0.36,2651.6,OK
+Sports-Item-710,Sports,873,4,0.33,2660.6,OK
+Sports-Item-594,Sports,849,4,0.32,2670.1,OK
+Electronics-Item-337,Electronics,858,4,0.32,2672.1,OK
+Electronics-Item-163,Electronics,981,5,0.36,2688.8,OK
+Beauty-Item-637,Beauty,995,5,0.37,2704.0,OK
+Beauty-Item-789,Beauty,1011,5,0.37,2707.3,OK
+Apparel-Item-120,Apparel,858,4,0.32,2718.4,OK
+Electronics-Item-661,Electronics,935,4,0.34,2726.2,OK
+Electronics-Item-85,Electronics,1008,5,0.37,2733.6,OK
+Apparel-Item-239,Apparel,926,4,0.34,2737.4,OK
+Electronics-Item-257,Electronics,969,4,0.35,2738.0,OK
+Home-Item-263,Home & Kitchen,844,4,0.31,2741.9,OK
+Electronics-Item-681,Electronics,852,4,0.31,2747.0,OK
+Sports-Item-731,Sports,895,4,0.33,2747.2,OK
+Home-Item-452,Home & Kitchen,827,4,0.3,2749.5,OK
+Apparel-Item-508,Apparel,926,4,0.34,2750.1,OK
+Home-Item-557,Home & Kitchen,1019,5,0.37,2757.5,OK
+Beauty-Item-677,Beauty,974,4,0.35,2758.2,OK
+Home-Item-702,Home & Kitchen,898,4,0.32,2776.4,OK
+Sports-Item-470,Sports,887,4,0.32,2782.7,OK
+Sports-Item-201,Sports,982,4,0.35,2793.2,OK
+Beauty-Item-164,Beauty,1012,5,0.36,2797.8,OK
+Beauty-Item-489,Beauty,1072,5,0.38,2806.1,OK
+Electronics-Item-115,Electronics,1022,5,0.36,2819.3,OK
+Home-Item-408,Home & Kitchen,1018,5,0.36,2820.4,OK
+Apparel-Item-641,Apparel,873,4,0.31,2821.8,OK
+Electronics-Item-411,Electronics,870,4,0.31,2826.4,OK
+Apparel-Item-749,Apparel,968,4,0.34,2828.9,OK
+Home-Item-441,Home & Kitchen,1071,5,0.38,2832.4,OK
+Beauty-Item-367,Beauty,928,4,0.33,2834.9,OK
+Electronics-Item-207,Electronics,1115,5,0.39,2848.7,OK
+Beauty-Item-266,Beauty,1027,5,0.36,2851.5,OK
+Apparel-Item-252,Apparel,861,4,0.3,2862.5,OK
+Beauty-Item-310,Beauty,1066,5,0.37,2866.6,OK
+Sports-Item-218,Sports,928,4,0.32,2869.2,OK
+Electronics-Item-727,Electronics,904,4,0.31,2871.3,OK
+Electronics-Item-587,Electronics,1057,5,0.37,2872.5,OK
+Home-Item-344,Home & Kitchen,1080,5,0.38,2874.0,OK
+Home-Item-476,Home & Kitchen,1022,4,0.36,2875.1,OK
+Home-Item-645,Home & Kitchen,1018,4,0.35,2876.5,OK
+Electronics-Item-206,Electronics,974,4,0.34,2879.3,OK
+Electronics-Item-483,Electronics,982,4,0.34,2889.6,OK
+Electronics-Item-264,Electronics,980,4,0.34,2903.7,OK
+Electronics-Item-286,Electronics,1063,5,0.37,2907.4,OK
+Home-Item-774,Home & Kitchen,1013,4,0.35,2913.8,OK
+Apparel-Item-327,Apparel,963,4,0.33,2948.9,OK
+Apparel-Item-101,Apparel,1034,4,0.35,2954.3,OK
+Sports-Item-345,Sports,987,4,0.33,2958.7,OK
+Apparel-Item-675,Apparel,991,4,0.33,2963.7,OK
+Electronics-Item-325,Electronics,1085,5,0.36,2973.9,OK
+Electronics-Item-644,Electronics,1047,4,0.35,2991.4,OK
+Home-Item-179,Home & Kitchen,1071,4,0.36,3006.3,OK
+Electronics-Item-546,Electronics,1039,4,0.35,3008.9,OK
+Beauty-Item-87,Beauty,1050,4,0.35,3013.5,OK
+Sports-Item-275,Sports,1002,4,0.33,3017.8,OK
+Home-Item-440,Home & Kitchen,1052,4,0.35,3019.2,OK
+Beauty-Item-43,Beauty,1102,5,0.36,3027.0,OK
+Home-Item-456,Home & Kitchen,1024,4,0.34,3048.2,OK
+Sports-Item-66,Sports,1054,4,0.34,3059.2,OK
+Beauty-Item-188,Beauty,1049,4,0.34,3079.6,OK
+Sports-Item-132,Sports,1127,5,0.36,3095.6,OK
+Beauty-Item-94,Beauty,1109,5,0.36,3099.4,OK
+Sports-Item-380,Sports,1034,4,0.33,3099.6,OK
+Beauty-Item-348,Beauty,1098,4,0.35,3109.4,OK
+Home-Item-76,Home & Kitchen,1054,4,0.34,3115.8,OK
+Sports-Item-329,Sports,1019,4,0.32,3135.4,OK
+Home-Item-162,Home & Kitchen,1096,4,0.35,3145.5,OK
+Electronics-Item-762,Electronics,1107,4,0.35,3148.8,OK
+Home-Item-248,Home & Kitchen,1069,4,0.34,3160.1,OK
+Beauty-Item-559,Beauty,1003,4,0.32,3162.2,OK
+Beauty-Item-513,Beauty,1082,4,0.34,3176.5,OK
+Home-Item-625,Home & Kitchen,941,4,0.3,3186.5,OK
+Sports-Item-68,Sports,1096,4,0.34,3188.4,OK
+Beauty-Item-563,Beauty,1180,5,0.37,3200.0,OK
+Beauty-Item-48,Beauty,1139,4,0.36,3204.2,OK
+Sports-Item-728,Sports,1085,4,0.34,3222.3,OK
+Apparel-Item-182,Apparel,1146,4,0.36,3223.9,OK
+Beauty-Item-779,Beauty,1293,5,0.4,3226.2,OK
+Sports-Item-335,Sports,1002,4,0.31,3230.6,OK
+Sports-Item-655,Sports,1123,4,0.35,3237.5,OK
+Home-Item-240,Home & Kitchen,1146,4,0.35,3238.1,OK
+Beauty-Item-231,Beauty,1059,4,0.33,3242.9,OK
+Apparel-Item-309,Apparel,1115,4,0.34,3243.6,OK
+Electronics-Item-751,Electronics,1094,4,0.34,3249.0,OK
+Beauty-Item-555,Beauty,1144,4,0.35,3254.0,OK
+Electronics-Item-658,Electronics,1197,5,0.37,3259.9,OK
+Electronics-Item-406,Electronics,1117,4,0.34,3264.3,OK
+Home-Item-745,Home & Kitchen,1117,4,0.34,3264.3,OK
+Apparel-Item-597,Apparel,1221,5,0.37,3269.6,OK
+Sports-Item-788,Sports,1187,5,0.36,3295.8,OK
+Electronics-Item-786,Electronics,1065,4,0.32,3300.7,OK
+Beauty-Item-632,Beauty,1174,4,0.36,3302.7,OK
+Home-Item-393,Home & Kitchen,1067,4,0.32,3323.0,OK
+Sports-Item-236,Sports,1024,4,0.31,3326.7,OK
+Sports-Item-106,Sports,1201,5,0.36,3327.4,OK
+Beauty-Item-561,Beauty,1181,4,0.35,3329.7,OK
+Apparel-Item-153,Apparel,1131,4,0.34,3343.4,OK
+Home-Item-430,Home & Kitchen,1247,5,0.37,3346.2,OK
+Home-Item-475,Home & Kitchen,1141,4,0.34,3365.2,OK
+Beauty-Item-336,Beauty,1115,4,0.33,3374.0,OK
+Sports-Item-539,Sports,1180,4,0.35,3379.0,OK
+Apparel-Item-660,Apparel,1270,5,0.38,3379.6,OK
+Electronics-Item-103,Electronics,1270,5,0.37,3393.7,OK
+Beauty-Item-569,Beauty,1180,4,0.35,3417.2,OK
+Electronics-Item-518,Electronics,1280,5,0.37,3420.5,OK
+Home-Item-139,Home & Kitchen,1133,4,0.33,3428.5,OK
+Beauty-Item-361,Beauty,1284,5,0.37,3431.1,OK
+Electronics-Item-13,Electronics,1086,4,0.32,3432.3,OK
+Beauty-Item-235,Beauty,1141,4,0.33,3436.4,OK
+Home-Item-80,Home & Kitchen,1208,4,0.35,3451.4,OK
+Home-Item-53,Home & Kitchen,1195,4,0.34,3476.4,OK
+Apparel-Item-756,Apparel,1200,4,0.34,3483.0,OK
+Electronics-Item-25,Electronics,1230,4,0.35,3483.2,OK
+Apparel-Item-469,Apparel,1270,5,0.36,3488.4,OK
+Sports-Item-588,Sports,1142,4,0.33,3488.7,OK
+Sports-Item-729,Sports,1336,5,0.38,3497.1,OK
+Beauty-Item-20,Beauty,1126,4,0.32,3498.3,OK
+Beauty-Item-77,Beauty,1163,4,0.33,3502.7,OK
+Electronics-Item-369,Electronics,1290,5,0.37,3505.7,OK
+Apparel-Item-596,Apparel,1259,5,0.36,3510.9,OK
+Beauty-Item-497,Beauty,1146,4,0.33,3517.7,OK
+Home-Item-62,Home & Kitchen,1246,4,0.35,3520.7,OK
+Beauty-Item-707,Beauty,1239,4,0.35,3524.3,OK
+Sports-Item-780,Sports,1178,4,0.33,3531.2,OK
+Beauty-Item-104,Beauty,1232,4,0.35,3535.8,OK
+Sports-Item-262,Sports,1169,4,0.33,3537.4,OK
+Sports-Item-458,Sports,1216,4,0.34,3545.5,OK
+Electronics-Item-381,Electronics,1305,5,0.37,3561.6,OK
+Apparel-Item-603,Apparel,1263,4,0.35,3568.7,OK
+Beauty-Item-346,Beauty,1131,4,0.32,3583.4,OK
+Home-Item-506,Home & Kitchen,1243,4,0.35,3583.4,OK
+Home-Item-60,Home & Kitchen,1204,4,0.34,3592.4,OK
+Home-Item-95,Home & Kitchen,1356,5,0.38,3608.5,OK
+Home-Item-119,Home & Kitchen,1142,4,0.32,3609.3,OK
+Electronics-Item-84,Electronics,1148,4,0.32,3610.4,OK
+Home-Item-495,Home & Kitchen,1264,4,0.35,3611.4,OK
+Sports-Item-643,Sports,1270,4,0.35,3620.5,OK
+Beauty-Item-354,Beauty,1299,4,0.36,3638.3,OK
+Sports-Item-487,Sports,1144,4,0.31,3642.6,OK
+Beauty-Item-535,Beauty,1272,4,0.35,3650.6,OK
+Apparel-Item-82,Apparel,1464,5,0.4,3652.9,OK
+Apparel-Item-500,Apparel,1430,5,0.39,3653.5,OK
+Home-Item-23,Home & Kitchen,1349,5,0.37,3658.3,OK
+Electronics-Item-473,Electronics,1253,4,0.34,3661.7,OK
+Beauty-Item-570,Beauty,1329,5,0.36,3666.2,OK
+Sports-Item-134,Sports,1278,4,0.35,3676.0,OK
+Electronics-Item-110,Electronics,1228,4,0.33,3681.1,OK
+Electronics-Item-7,Electronics,1295,4,0.35,3683.6,OK
+Home-Item-357,Home & Kitchen,1311,4,0.36,3688.1,OK
+Beauty-Item-259,Beauty,1040,3,0.28,3697.8,OK
+Apparel-Item-558,Apparel,1200,4,0.32,3701.2,OK
+Electronics-Item-151,Electronics,1276,4,0.34,3712.0,OK
+Beauty-Item-378,Beauty,1232,4,0.33,3719.2,OK
+Sports-Item-763,Sports,1192,4,0.32,3730.5,OK
+Home-Item-686,Home & Kitchen,1253,4,0.34,3738.6,OK
+Electronics-Item-173,Electronics,1398,5,0.37,3743.6,OK
+Sports-Item-739,Sports,1291,4,0.34,3755.6,OK
+Apparel-Item-256,Apparel,1224,4,0.32,3766.2,OK
+Beauty-Item-618,Beauty,1148,4,0.3,3767.8,OK
+Sports-Item-601,Sports,1431,5,0.38,3768.9,OK
+Apparel-Item-463,Apparel,1390,5,0.37,3785.5,OK
+Beauty-Item-659,Beauty,1141,4,0.3,3793.5,OK
+Beauty-Item-717,Beauty,1282,4,0.34,3798.5,OK
+Apparel-Item-502,Apparel,1229,4,0.32,3809.0,OK
+Electronics-Item-320,Electronics,1346,4,0.35,3811.7,OK
+Apparel-Item-41,Apparel,1381,5,0.36,3817.9,OK
+Sports-Item-54,Sports,1312,4,0.34,3834.2,OK
+Electronics-Item-700,Electronics,1439,5,0.37,3845.3,OK
+Sports-Item-136,Sports,1200,4,0.31,3869.0,OK
+Electronics-Item-2,Electronics,1306,4,0.34,3869.6,OK
+Apparel-Item-545,Apparel,1302,4,0.34,3875.7,OK
+Beauty-Item-186,Beauty,1294,4,0.33,3879.0,OK
+Apparel-Item-249,Apparel,1375,4,0.35,3885.2,OK
+Beauty-Item-397,Beauty,1348,4,0.35,3886.1,OK
+Apparel-Item-746,Apparel,1254,4,0.32,3886.5,OK
+Sports-Item-376,Sports,1274,4,0.33,3891.9,OK
+Electronics-Item-174,Electronics,1366,4,0.35,3894.2,OK
+Beauty-Item-531,Beauty,1435,5,0.37,3899.8,OK
+Beauty-Item-752,Beauty,1378,4,0.35,3902.3,OK
+Electronics-Item-760,Electronics,1385,4,0.35,3904.8,OK
+Electronics-Item-92,Electronics,1264,4,0.32,3908.0,OK
+Sports-Item-584,Sports,1355,4,0.35,3915.1,OK
+Electronics-Item-642,Electronics,1393,4,0.36,3918.8,OK
+Electronics-Item-424,Electronics,1284,4,0.33,3922.5,OK
+Electronics-Item-743,Electronics,1266,4,0.32,3923.7,OK
+Sports-Item-490,Sports,1293,4,0.33,3931.2,OK
+Apparel-Item-180,Apparel,1280,4,0.32,3938.5,OK
+Electronics-Item-385,Electronics,1382,4,0.35,3939.8,OK
+Apparel-Item-589,Apparel,1426,5,0.36,3950.8,OK
+Electronics-Item-633,Electronics,1284,4,0.32,3960.3,OK
+Apparel-Item-516,Apparel,1414,4,0.36,3960.4,OK
+Home-Item-135,Home & Kitchen,1406,4,0.35,3964.1,OK
+Electronics-Item-711,Electronics,1444,5,0.36,3974.9,OK
+Apparel-Item-19,Apparel,1502,5,0.38,3980.5,OK
+Electronics-Item-764,Electronics,1442,5,0.36,3995.2,OK
+Beauty-Item-47,Beauty,1365,4,0.34,3998.2,OK
+Sports-Item-687,Sports,1269,4,0.32,4000.8,OK
+Electronics-Item-160,Electronics,1513,5,0.38,4001.3,OK
+Beauty-Item-501,Beauty,1274,4,0.32,4016.6,OK
+Home-Item-112,Home & Kitchen,1494,5,0.37,4025.9,OK
+Sports-Item-676,Sports,1288,4,0.32,4030.9,OK
+Beauty-Item-321,Beauty,1329,4,0.33,4031.1,OK
+Home-Item-485,Home & Kitchen,1343,4,0.33,4035.3,OK
+Apparel-Item-635,Apparel,1454,4,0.36,4072.5,OK
+Home-Item-621,Home & Kitchen,1511,5,0.37,4080.3,OK
+Beauty-Item-629,Beauty,1269,4,0.31,4081.2,OK
+Home-Item-732,Home & Kitchen,1296,4,0.32,4085.9,OK
+Home-Item-413,Home & Kitchen,1364,4,0.33,4088.8,OK
+Electronics-Item-198,Electronics,1419,4,0.35,4090.8,OK
+Sports-Item-152,Sports,1282,4,0.31,4092.2,OK
+Electronics-Item-427,Electronics,1377,4,0.34,4099.0,OK
+Sports-Item-125,Sports,1635,5,0.4,4119.7,OK
+Apparel-Item-287,Apparel,1386,4,0.34,4125.8,OK
+Electronics-Item-512,Electronics,1544,5,0.37,4160.7,OK
+Home-Item-425,Home & Kitchen,1446,4,0.35,4168.6,OK
+Home-Item-17,Home & Kitchen,1463,4,0.35,4170.7,OK
+Beauty-Item-233,Beauty,1369,4,0.33,4182.1,OK
+Home-Item-735,Home & Kitchen,1364,4,0.33,4186.9,OK
+Sports-Item-226,Sports,1339,4,0.32,4200.8,OK
+Sports-Item-322,Sports,1409,4,0.34,4204.0,OK
+Electronics-Item-123,Electronics,1373,4,0.33,4204.4,OK
+Sports-Item-575,Sports,1406,4,0.33,4204.9,OK
+Electronics-Item-35,Electronics,1335,4,0.32,4219.3,OK
+Beauty-Item-171,Beauty,1312,4,0.31,4251.5,OK
+Beauty-Item-680,Beauty,1496,4,0.35,4264.8,OK
+Home-Item-209,Home & Kitchen,1490,4,0.35,4266.7,OK
+Sports-Item-649,Sports,1528,5,0.36,4270.4,OK
+Beauty-Item-578,Beauty,1486,4,0.35,4274.3,OK
+Apparel-Item-426,Apparel,1433,4,0.34,4275.6,OK
+Apparel-Item-289,Apparel,1457,4,0.34,4277.4,OK
+Beauty-Item-640,Beauty,1524,4,0.36,4277.9,OK
+Home-Item-70,Home & Kitchen,1420,4,0.33,4286.8,OK
+Home-Item-157,Home & Kitchen,1352,4,0.31,4304.9,OK
+Electronics-Item-488,Electronics,1298,4,0.3,4315.4,OK
+Electronics-Item-229,Electronics,1371,4,0.32,4333.0,OK
+Beauty-Item-205,Beauty,1382,4,0.32,4346.3,OK
+Apparel-Item-471,Apparel,1489,4,0.34,4351.4,OK
+Apparel-Item-291,Apparel,1525,4,0.35,4366.9,OK
+Beauty-Item-647,Beauty,1444,4,0.33,4369.6,OK
+Electronics-Item-669,Electronics,1439,4,0.33,4385.5,OK
+Sports-Item-453,Sports,1616,5,0.37,4391.7,OK
+Home-Item-447,Home & Kitchen,1504,4,0.34,4395.3,OK
+Beauty-Item-347,Beauty,1488,4,0.34,4419.1,OK
+Beauty-Item-527,Beauty,1433,4,0.32,4419.9,OK
+Beauty-Item-761,Beauty,1500,4,0.34,4424.0,OK
+Home-Item-313,Home & Kitchen,1506,4,0.34,4431.4,OK
+Home-Item-121,Home & Kitchen,1500,4,0.34,4454.8,OK
+Electronics-Item-304,Electronics,1514,4,0.34,4455.0,OK
+Electronics-Item-690,Electronics,1441,4,0.32,4455.3,OK
+Home-Item-18,Home & Kitchen,1375,4,0.31,4455.7,OK
+Electronics-Item-757,Electronics,1557,4,0.35,4498.8,OK
+Electronics-Item-59,Electronics,1624,5,0.36,4499.4,OK
+Beauty-Item-492,Beauty,1567,4,0.35,4517.5,OK
+Sports-Item-31,Sports,1656,5,0.37,4529.2,OK
+Beauty-Item-719,Beauty,1589,4,0.35,4540.0,OK
+Beauty-Item-225,Beauty,1574,4,0.35,4558.2,OK
+Sports-Item-526,Sports,1541,4,0.34,4565.9,OK
+Electronics-Item-420,Electronics,1586,4,0.35,4572.3,OK
+Sports-Item-623,Sports,1590,4,0.35,4573.5,OK
+Electronics-Item-217,Electronics,1523,4,0.33,4576.2,OK
+Electronics-Item-300,Electronics,1566,4,0.34,4597.4,OK
+Beauty-Item-598,Beauty,1535,4,0.33,4634.0,OK
+Home-Item-392,Home & Kitchen,1391,4,0.3,4636.7,OK
+Beauty-Item-133,Beauty,1540,4,0.33,4638.1,OK
+Beauty-Item-799,Beauty,1657,4,0.36,4651.2,OK
+Sports-Item-662,Sports,1600,4,0.34,4654.5,OK
+Beauty-Item-795,Beauty,1605,4,0.34,4658.5,OK
+Beauty-Item-465,Beauty,1569,4,0.34,4670.5,OK
+Apparel-Item-782,Apparel,1554,4,0.33,4702.4,OK
+Apparel-Item-562,Apparel,1496,4,0.32,4716.5,OK
+Sports-Item-215,Sports,1603,4,0.34,4727.7,OK
+Apparel-Item-689,Apparel,1409,4,0.3,4733.6,OK
+Apparel-Item-482,Apparel,1459,4,0.31,4739.9,OK
+Electronics-Item-407,Electronics,1567,4,0.33,4741.7,OK
+Home-Item-126,Home & Kitchen,1527,4,0.32,4744.1,OK
+Home-Item-27,Home & Kitchen,1616,4,0.34,4744.2,OK
+Home-Item-457,Home & Kitchen,1487,4,0.31,4746.5,OK
+Beauty-Item-211,Beauty,1580,4,0.33,4747.4,OK
+Apparel-Item-154,Apparel,1484,4,0.31,4760.7,OK
+Electronics-Item-373,Electronics,1624,4,0.34,4778.7,OK
+Sports-Item-113,Sports,1643,4,0.34,4779.6,OK
+Home-Item-81,Home & Kitchen,1638,4,0.34,4786.8,OK
+Electronics-Item-552,Electronics,1530,4,0.32,4788.3,OK
+Sports-Item-197,Sports,1557,4,0.32,4790.8,OK
+Apparel-Item-145,Apparel,1627,4,0.34,4831.9,OK
+Home-Item-547,Home & Kitchen,1559,4,0.32,4855.3,OK
+Sports-Item-674,Sports,1509,4,0.31,4902.3,OK
+Sports-Item-784,Sports,1708,4,0.35,4912.9,OK
+Sports-Item-759,Sports,1631,4,0.33,4923.8,OK
+Home-Item-200,Home & Kitchen,1645,4,0.33,4942.7,OK
+Sports-Item-685,Sports,1539,4,0.31,4962.0,OK
+Apparel-Item-143,Apparel,1559,4,0.31,4988.8,OK
+Sports-Item-668,Sports,1644,4,0.33,5022.2,OK
+Apparel-Item-326,Apparel,1609,4,0.31,5123.2,OK
+Beauty-Item-230,Beauty,1702,4,0.33,5174.7,OK
+Apparel-Item-318,Apparel,1729,4,0.33,5195.1,OK
+Sports-Item-127,Sports,1720,4,0.33,5241.9,OK
+Apparel-Item-646,Apparel,1554,4,0.3,5262.2,OK
+Home-Item-222,Home & Kitchen,1633,4,0.31,5265.1,OK
+Apparel-Item-528,Apparel,1635,4,0.31,5284.8,OK
+Apparel-Item-790,Apparel,1615,4,0.3,5341.6,OK
+Sports-Item-616,Sports,1755,4,0.29,5974.5,OK
+Beauty-Item-146,Beauty,1763,4,0.29,6033.8,OK
