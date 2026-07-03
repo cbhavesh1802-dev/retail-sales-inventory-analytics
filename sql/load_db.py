@@ -2,15 +2,17 @@ import sqlite3
 import pandas as pd
 import os
 
-DATA_DIR = "/home/claude/projects/03-retail-sales-inventory/data"
-DB_PATH = f"{DATA_DIR}/retail_analytics.db"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
+DATA_DIR = os.path.join(PROJECT_ROOT, "data")
+DB_PATH = os.path.join(DATA_DIR, "retail_analytics.db")
 
 if os.path.exists(DB_PATH):
     os.remove(DB_PATH)
 
-products = pd.read_csv(f"{DATA_DIR}/products.csv")
-sales = pd.read_csv(f"{DATA_DIR}/sales.csv")
-inventory = pd.read_csv(f"{DATA_DIR}/inventory.csv")
+products = pd.read_csv(os.path.join(DATA_DIR, "products.csv"))
+sales = pd.read_csv(os.path.join(DATA_DIR, "sales.csv"))
+inventory = pd.read_csv(os.path.join(DATA_DIR, "inventory.csv"))
 
 conn = sqlite3.connect(DB_PATH)
 products.to_sql("products", conn, index=False)
